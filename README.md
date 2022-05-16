@@ -20,7 +20,7 @@ In order to run the game, clone this repository
 
 Then open terminal/command-line in the cloned folder then run the following command
 
-`python NumGussr` **requires Python to be installed*
+`python NumGussr.py` **requires Python to be installed*
 
 ___
 © SpaceRanger21

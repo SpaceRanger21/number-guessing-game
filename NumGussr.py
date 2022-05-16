@@ -2,7 +2,7 @@
 #The number is between 1 and 10
 #the game asks for a hint every 5 turns
 #there are two difficulties of hints, first hint is difficult, second hint is easier
-#LICENSE: https://github.com/SpaceRanger21/number-guessing-game/blob/main/LICENSE
+#LICENSE: https://github.com/SpaceRanger21/number-guessing-game/blob/master/LICENSE
 #© Made by SpaceRanger21 (https://github.com/SpaceRanger21/) ©
 
 import random
